@@ -1,0 +1,30 @@
+.button {
+    display: block;
+    background-color: var(--color-primary);
+    width: 100%;
+    margin-top: 1rem;
+    max-width: 20rem;
+    padding: 1.125rem;
+    box-sizing: border-box;
+    color: var(--color-contrast-light);
+    font-size: var(--font-size-button);
+    align-self: center;
+    text-align: center;
+}
+
+.button- {
+    border: none;
+    background-color: unset;
+}
+
+.button-default--add {
+    color: var(--color-primary);
+}
+
+.button-default--delete {
+    color: var(--cor-aviso);
+}
+
+.button-default--update {
+    color: var(--color-sucess);
+}

@@ -1,0 +1,36 @@
+{
+  "categorias": [
+    {
+      "id": "Engenharia de Computação",
+      "nome": "Engenharia de Computação"
+    },
+    {
+      "id": "Engenharia de Software",
+      "nome": "Engenharia de Software"
+    }
+  ],
+  "posts": [
+    {
+      "idArquivo": 1,
+      "NomeArquivo": "Prova Algoritmos 3",
+      "NomeAutor": "Aguinaldo de Souza Júnior",
+      "DataCriacao": "16/05/2021",
+      "Body": "Prova dada no segundo semestre de 2021 pelo professor ***** possui a matéria X e Y",
+      "URL": "www.google.com",
+      "categoria": "Engenharia de Computação",
+      "comments": [
+        {
+          "id": 1,
+          "NomeAutor": "Nicole Escobar",
+          "Texto": "Eu fiz essa prova!"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1
+
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+:root{
+    --font-family-body: 'Roboto';
+    --font-family-logo: 'Roboto';
+    --font-family-page-title: 'Roboto';
+
+    --font-weight-input:300;
+    --font-weight-card:300;
+    --font-weight-category: 500;
+    --font-weight-menu-item-header: 500;
+
+    --font-size-logo: 1.75rem;
+    --font-size-card-title: 1.75rem;
+    --font-size-card-post-title: 1.375rem;
+    --font-size-input-label: 1.25rem;
+    --font-size-button: 1.375rem;
+    --font-size-form-fieldset: 1.375rem;
+    --font-size-table-header: 1.375rem;
+    --font-size-title-page: 1.75rem;
+    --font-size-menu-header-item: 1.2rem;
+    --font-size-notfound-text: 1.25rem;
+
+    --color-primary: #BB86FC;
+    --color-secondary: #03DAC6;
+    --color-contrast-dark: #000;
+    --color-font-color: #fff;
+    --color-contrast-light: #121212;
+    --color-division: #dadada;
+    --cor-aviso: #CF6679;
+    --color-sucess: #46bb42;
+
+    --color-category-bem-estar: #ff4949;
+    --color-category-comportamento: #368dff;
+
+    --shadow: 0 5px 10px #2b2b2b38;
+
+    @media(min-width: 800px) {
+        :root {
+            --font-size-logo: 2.5rem;
+            --font-size-menu-header-item: 1rem;
+        }
+    }
+
+}
